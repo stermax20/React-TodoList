@@ -1,0 +1,12 @@
+.app {
+  width: 100%;
+  max-width: 500px;
+  margin: 50px auto;
+}
+
+.todos {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 15px;
+}
